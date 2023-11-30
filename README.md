@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangyadhillo&label=Profile%20views&color=0e75b6&style=flat" alt="sangyadhillo" /> </p>
 
-- 🌱 I’m currently learning **Machine learning, Power Bi, Visualization, Data Analysis**
+- 🌱 I’m have skills on **Machine learning, Power Bi, Visualization, Data Analysis,EXCEL, SQL,PYTHON**
 
-- 💬 Ask me about **Data Analysis ,Visualization ,statistics**
+- 💬 Ask me about **Data Analysis ,Visualization ,statistics,Machine Learning,NLP**
 
 - 📫 How to reach me **sangyadhillon5299@gmail.com**
 
